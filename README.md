@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
 | ------- |
