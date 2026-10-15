@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
