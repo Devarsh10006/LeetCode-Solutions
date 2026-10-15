@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2235-add-two-integers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3790-smallest-all-ones-multiple) |
 ## Newton's Method
