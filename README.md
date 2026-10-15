@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0120-triangle](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
