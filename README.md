@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
