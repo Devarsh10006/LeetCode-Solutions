@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3790-smallest-all-ones-multiple) |
+| [3871-count-commas-in-range-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Newton's Method
