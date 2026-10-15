@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
