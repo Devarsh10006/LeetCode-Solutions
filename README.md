@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0456-132-pattern](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
