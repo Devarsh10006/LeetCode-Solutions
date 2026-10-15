@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-score-of-a-split](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3788-maximum-score-of-a-split) |
 ## Stack
