@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3110-score-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
