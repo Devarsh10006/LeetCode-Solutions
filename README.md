@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-score-of-a-split](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3788-maximum-score-of-a-split) |
+| [3895-count-digit-appearances](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Stack
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3790-smallest-all-ones-multiple) |
+| [3895-count-digit-appearances](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Newton's Method
 |  |
 | ------- |
