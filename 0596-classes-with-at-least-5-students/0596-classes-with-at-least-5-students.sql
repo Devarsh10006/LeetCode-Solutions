@@ -1,0 +1,9 @@
+-- SELECT class
+-- FROM Courses
+-- GROUP BY class
+-- having COUNT(*) >= 5
+-- ORDER BY COUNT(*) DESC
+
+SELECT CLASS FROM COURSES
+GROUP BY CLASS
+HAVING COUNT(STUDENT) >= 5;
