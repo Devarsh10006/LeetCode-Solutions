@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0120-triangle](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Backtracking
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
