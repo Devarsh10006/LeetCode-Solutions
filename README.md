@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Ordered Set
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Heap (Priority Queue)
 |  |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3788-maximum-score-of-a-split](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3788-maximum-score-of-a-split) |
 ## Manacher
