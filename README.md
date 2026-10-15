@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3110-score-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -184,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
