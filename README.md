@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2643-row-with-maximum-ones](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
