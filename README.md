@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Ordered Set
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Database
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
