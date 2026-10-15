@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3788-maximum-score-of-a-split](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3788-maximum-score-of-a-split) |
 ## Manacher
