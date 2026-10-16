@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
