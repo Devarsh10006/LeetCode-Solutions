@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
