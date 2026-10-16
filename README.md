@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0319-bulb-switcher](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0504-base-7) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0645-set-mismatch) |
