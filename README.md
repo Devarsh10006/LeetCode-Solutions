@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0829-consecutive-numbers-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0829-consecutive-numbers-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1291-sequential-digits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Floyd's Cycle Finding Algorithm
