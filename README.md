@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0868-binary-gap) |
