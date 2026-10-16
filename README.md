@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3719-longest-balanced-subarray-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
