@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1341-movie-rating) |
 | [1683-invalid-tweets](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Counting
 |  |
 | ------- |
