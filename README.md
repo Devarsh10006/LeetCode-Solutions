@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3803-count-residue-prefixes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Bracket Sequences
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
