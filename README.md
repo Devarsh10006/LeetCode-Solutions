@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -765,17 +768,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Geometry
@@ -952,4 +958,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
