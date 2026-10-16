@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1492-the-kth-factor-of-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Sieve Theory
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
+| [1492-the-kth-factor-of-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Primality Test
 |  |
 | ------- |
