@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1406-stone-game-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3791-number-of-balanced-integers-in-a-range) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -795,14 +798,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
