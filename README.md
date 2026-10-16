@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Counting Sort
