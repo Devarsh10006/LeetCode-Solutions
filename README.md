@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
