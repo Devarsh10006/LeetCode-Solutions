@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1390-four-divisors) |
 ## Tree
 |  |
@@ -539,10 +542,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
 ## Memoization
 |  |
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -597,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
