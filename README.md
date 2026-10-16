@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
