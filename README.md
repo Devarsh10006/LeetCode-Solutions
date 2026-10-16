@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-score-of-a-split](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3788-maximum-score-of-a-split) |
 | [3895-count-digit-appearances](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Stack
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Newton's Method
 |  |
