@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
