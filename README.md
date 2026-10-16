@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2643-row-with-maximum-ones](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Matrix
 |  |
