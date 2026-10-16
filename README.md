@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2293-min-max-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3379-transformed-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
