@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
+| [4006-count-valid-prefixes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4006-count-valid-prefixes) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [4006-count-valid-prefixes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4006-count-valid-prefixes) |
 ## Matrix
 |  |
 | ------- |
