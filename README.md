@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
