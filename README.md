@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0504-base-7](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
