@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0456-132-pattern](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
