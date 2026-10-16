@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
