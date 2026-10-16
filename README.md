@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
