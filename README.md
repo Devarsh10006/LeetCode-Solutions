@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-consecutive-numbers-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0866-prime-palindrome) |
+| [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
@@ -789,12 +792,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
