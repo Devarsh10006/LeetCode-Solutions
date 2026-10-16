@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
