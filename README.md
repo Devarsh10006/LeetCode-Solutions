@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1980-find-unique-binary-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
