@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0456-132-pattern](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
