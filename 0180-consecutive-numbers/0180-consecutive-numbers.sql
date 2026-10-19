@@ -1,15 +1,12 @@
-SELECT DISTINCT a.num AS ConsecutiveNums
-FROM Logs a, Logs b, Logs c
-WHERE a.id = b.id - 1
-  AND b.id = c.id - 1
-  AND a.num = b.num
-  AND b.num = c.num;
+SELECT DISTINCT
+    L1.num AS ConsecutiveNums
+FROM Logs L1
 
--- SELECT DISTINCT num AS ConsecutiveNums
--- FROM (
---     SELECT num,
---            id - ROW_NUMBER() OVER (PARTITION BY num ORDER BY id) AS grp
---     FROM Logs
--- ) t
--- GROUP BY num, grp
--- HAVING COUNT(*) >= 3;
+INNER JOIN Logs L2
+    ON L1.id = L2.id - 1
+INNER JOIN Logs L3
+    ON L2.id = L3.id - 1
+
+WHERE
+    L1.num = L2.num AND
+    L2.num = L3.num;
