@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -1017,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Binary Search Tree
 |  |
 | ------- |
