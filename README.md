@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3791-number-of-balanced-integers-in-a-range) |
 ## Backtracking
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
