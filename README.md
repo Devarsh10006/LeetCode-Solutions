@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4006-count-valid-prefixes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4006-count-valid-prefixes) |
 ## Bracket Sequences
 |  |
