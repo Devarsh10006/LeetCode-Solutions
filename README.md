@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2293-min-max-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Ordered Set
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
