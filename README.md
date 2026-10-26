@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2560-house-robber-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
 | [2614-prime-in-diagonal](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2560-house-robber-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Ordered Set
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2560-house-robber-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3791-number-of-balanced-integers-in-a-range) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2560-house-robber-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
