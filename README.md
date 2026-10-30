@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
