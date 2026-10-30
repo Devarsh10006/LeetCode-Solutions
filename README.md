@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1980-find-unique-binary-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
