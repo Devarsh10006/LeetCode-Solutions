@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3280-convert-date-to-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3582-generate-tag-for-video-caption](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3582-generate-tag-for-video-caption](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3582-generate-tag-for-video-caption) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
