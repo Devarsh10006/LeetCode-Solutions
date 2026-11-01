@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2293-min-max-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
