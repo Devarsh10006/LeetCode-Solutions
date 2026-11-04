@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0665-non-decreasing-array) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0621-task-scheduler](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -829,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
