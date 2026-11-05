@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
