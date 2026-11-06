@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1646-get-maximum-in-generated-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1646-get-maximum-in-generated-array) |
+| [1652-defuse-the-bomb](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1652-defuse-the-bomb](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
