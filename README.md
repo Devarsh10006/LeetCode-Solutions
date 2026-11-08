@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
