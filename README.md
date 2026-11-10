@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3788-maximum-score-of-a-split) |
+| [3804-number-of-centered-subarrays](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3790-smallest-all-ones-multiple) |
 | [3803-count-residue-prefixes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3803-count-residue-prefixes) |
+| [3804-number-of-centered-subarrays](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3804-number-of-centered-subarrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3804-number-of-centered-subarrays](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3804-number-of-centered-subarrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
