@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2293-min-max-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [2365-task-scheduler-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2365-task-scheduler-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2707-extra-characters-in-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2293-min-max-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [2365-task-scheduler-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
