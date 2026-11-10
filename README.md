@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3693-climbing-stairs-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2560-house-robber-iv) |
 | [2707-extra-characters-in-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3693-climbing-stairs-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3791-number-of-balanced-integers-in-a-range) |
 ## Backtracking
