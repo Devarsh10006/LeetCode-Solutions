@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -834,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -872,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -1107,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -1160,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Nim Game
 |  |
