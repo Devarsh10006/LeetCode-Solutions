@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
