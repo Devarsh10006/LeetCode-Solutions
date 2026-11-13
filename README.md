@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3467-transform-array-by-parity](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3467-transform-array-by-parity](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3467-transform-array-by-parity](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [4006-count-valid-prefixes](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/4006-count-valid-prefixes) |
