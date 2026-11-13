@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2293-min-max-game](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2365-task-scheduler-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2235-add-two-integers](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2409-count-days-spent-together](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2614-prime-in-diagonal](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
