@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
