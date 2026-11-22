@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Devarsh10006/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
